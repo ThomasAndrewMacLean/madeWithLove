@@ -4,7 +4,7 @@
     // add footer
     const footer = document.createElement("footer");
     footer.classList.add("made-with-love-footer");
-    footer.innerHTML = `<p>Made with <span class="heart">&hearts;</span> by <a target="_blank" href="thomasmaclean.be">Thomas MacLean</a></p>`;
+    footer.innerHTML = `<p>Made with <span class="heart">&hearts;</span> by <a target="_blank" href="https://thomasmaclean.be">Thomas MacLean</a></p>`;
 
     document.body.appendChild(footer);
 
