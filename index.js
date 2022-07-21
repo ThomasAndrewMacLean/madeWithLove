@@ -1,4 +1,5 @@
 (() => {
+  console.log("adding some ❤️");
   document.addEventListener("DOMContentLoaded", () => {
     // add footer
     const footer = document.createElement("footer");
