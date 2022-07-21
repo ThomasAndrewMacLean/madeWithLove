@@ -1,7 +1,6 @@
 {
   "name": "@thomas-maclean/madewithlove",
-  "version": "1.0.0",
-  "private": false,
+  "version": "1.0.1",
   "description": "Snippet to add made with love to your site",
   "main": "index.js",
   "scripts": {
